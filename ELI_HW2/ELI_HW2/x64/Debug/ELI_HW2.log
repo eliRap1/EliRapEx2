@@ -1,0 +1,22 @@
+﻿  Device.cpp
+  DeviceList.cpp
+  Page.cpp
+  Profile.cpp
+D:\USERS\Desktop\magshimim\Year2-C1\Ekronot-Ex02-eli08rap\Ekronot-Ex02-eli08rap\ELI_HW2\ELI_HW2\Profile.cpp(101,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ProfileList.cpp
+  SocialNetwork.cpp
+D:\USERS\Desktop\magshimim\Year2-C1\Ekronot-Ex02-eli08rap\Ekronot-Ex02-eli08rap\ELI_HW2\ELI_HW2\SocialNetwork.cpp(91,41): warning C4018: '<': signed/unsigned mismatch
+  test3SocialNetwork.cpp
+D:\USERS\Desktop\magshimim\Year2-C1\Ekronot-Ex02-eli08rap\Ekronot-Ex02-eli08rap\ELI_HW2\ELI_HW2\test3SocialNetwork.cpp(18,9): warning C4005: 'PURPLE': macro redefinition
+D:\USERS\Desktop\magshimim\Year2-C1\Ekronot-Ex02-eli08rap\Ekronot-Ex02-eli08rap\ELI_HW2\ELI_HW2\test3SocialNetwork.cpp(119,29): warning C4018: '<': signed/unsigned mismatch
+D:\USERS\Desktop\magshimim\Year2-C1\Ekronot-Ex02-eli08rap\Ekronot-Ex02-eli08rap\ELI_HW2\ELI_HW2\test3SocialNetwork.cpp(121,30): warning C4018: '<': signed/unsigned mismatch
+D:\USERS\Desktop\magshimim\Year2-C1\Ekronot-Ex02-eli08rap\Ekronot-Ex02-eli08rap\ELI_HW2\ELI_HW2\test3SocialNetwork.cpp(138,29): warning C4018: '<': signed/unsigned mismatch
+D:\USERS\Desktop\magshimim\Year2-C1\Ekronot-Ex02-eli08rap\Ekronot-Ex02-eli08rap\ELI_HW2\ELI_HW2\test3SocialNetwork.cpp(696,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\USERS\Desktop\magshimim\Year2-C1\Ekronot-Ex02-eli08rap\Ekronot-Ex02-eli08rap\ELI_HW2\ELI_HW2\test3SocialNetwork.cpp(699,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\USERS\Desktop\magshimim\Year2-C1\Ekronot-Ex02-eli08rap\Ekronot-Ex02-eli08rap\ELI_HW2\ELI_HW2\test3SocialNetwork.cpp(702,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\USERS\Desktop\magshimim\Year2-C1\Ekronot-Ex02-eli08rap\Ekronot-Ex02-eli08rap\ELI_HW2\ELI_HW2\test3SocialNetwork.cpp(706,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  User.cpp
+  UserList.cpp
+  Generating Code...
+  LINK : D:\USERS\Desktop\magshimim\Year2-C1\Ekronot-Ex02-eli08rap\Ekronot-Ex02-eli08rap\ELI_HW2\x64\Debug\ELI_HW2.exe not found or not built by the last incremental link; performing full link
+  ELI_HW2.vcxproj -> D:\USERS\Desktop\magshimim\Year2-C1\Ekronot-Ex02-eli08rap\Ekronot-Ex02-eli08rap\ELI_HW2\x64\Debug\ELI_HW2.exe
